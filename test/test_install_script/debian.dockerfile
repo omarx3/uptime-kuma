@@ -1,4 +1,4 @@
-FROM debian
+FROM debian:bullseye
 
 # Test invalid node version, these commands install nodejs 10
 # RUN apt-get update
